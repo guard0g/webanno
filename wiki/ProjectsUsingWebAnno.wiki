@@ -1,8 +1,8 @@
 Selection of projects that use !WebAnno for their annotation needs
 
 *2015*
-  * [http://www.odisae.com ODISAE] Semantic and discourse annotation of online conversations (chat, mail, forum) for machine learning training.<br>_"Among many things, we particularly appreciate the possibility to adapt the tool to our data and problem not the opposite", Nicolas Hernandez_.
-  * CLARIN-D F-AG7 KP3 - Semantic Annotation for the Digital Humanities. This project funds the extension of !WebAnno to support new kinds of annotations such as predicate/argument structures.
+  * [http://www.odisae.com ODISAE] - Semantic and discourse annotation of online conversations (chat, mail, forum) for machine learning training.<br>_"Among many things, we particularly appreciate the possibility to adapt the tool to our data and problem not the opposite", Nicolas Hernandez_.
+  * [http://de.clarin.eu/de/fachspezifische-arbeitsgruppen/f-ag-7-computerlinguistik/kurationsprojekt-3.html CLARIN-D F-AG7 KP3] - Semantic Annotation for the Digital Humanities. This project funds the extension of !WebAnno to support new kinds of annotations such as predicate/argument structures.
 
 *2014*
   * [http://dsl.dk/ University of Copenhagen, CLARIN-DK]
