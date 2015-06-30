@@ -1,0 +1,3 @@
+  1. File with uncommon UTF-8 characters in name cause problems for MacOS/Safari. ( [Bug #525](https://code.google.com/p/webanno/issues/detail?id=525): File with uncommon UTF-8 characters in name cause problems)
+  1. On mac os 10.6.8 and safari Version 5.1.10, you might have a problem during rendering (the tokens and spaces are not displayed nicely) for the first time you open the annotation document.
+  1. The keybaord assignment for document navigation is not working for Mac/Safari (Mac/Chrome works however)
